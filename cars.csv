@@ -1,0 +1,13 @@
+Car ID,Model,Brand,Year,Rent Per Day,Available
+C001,Corolla,Toyota,2018,50,3
+C002,Civic,Honda,2019,55,2
+S001,Audi A6,Audi,2019,110,5
+S002,BMW X5,BMW,2020,150,4
+S003,Mercedes-Benz C-Class,Mercedes-Benz,2021,130,2
+S004,Tesla Model 3,Tesla,2022,200,7
+S005,Ford Mustang,Ford,2018,90,6
+S006,Chevrolet Camaro,Chevrolet,2017,95,3
+S007,Honda Civic,Honda,2021,70,2
+S008,Hyundai Elantra,Hyundai,2020,65,4
+S009,Volkswagen Passat,Volkswagen,2019,85,5
+S010,Jaguar XF,Jaguar,2021,160,3

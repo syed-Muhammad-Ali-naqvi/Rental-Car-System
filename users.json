@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "Username": "user",
+      "Password": "pass",
+      "Balance": 500,
+      "Car Rented": null,
+      "Days Rented": null,
+      "Returned": null
+    },
+    {
+      "Username": "admin",
+      "Password": "admin123",
+      "Balance": 1000,
+      "Car Rented": null,
+      "Days Rented": null,
+      "Returned": null
+    },
+    {
+      "Username": "ali",
+      "Password": "1234",
+      "Balance": 750,
+      "Car Rented": null,
+      "Days Rented": null,
+      "Returned": null
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+    "user": {
+        "password": "pass",
+        "balance": 465.0,
+        "activity_log": [
+            "2025-05-17 19:16:29 - Default user created.",
+            "2025-05-17 19:18:14 - Checked wallet balance: $0.00",
+            "2025-05-17 19:18:20 - Deposited $500.00",
+            "2025-05-17 19:19:05 - Rented BMW X5 (S002) for 2 days, paid $300",
+            "2025-05-17 19:19:35 - Checked wallet balance: $200.00",
+            "2025-05-17 19:22:08 - Returned BMW X5 (S002) after 1 days, paid $150",
+            "2025-05-17 19:22:18 - Checked wallet balance: $50.00",
+            "2025-05-17 20:34:10 - Deposited $500.00",
+            "2025-05-17 20:34:33 - Rented Tesla Model 3 (S004) for 2 days, paid $400",
+            "2025-05-17 20:35:41 - Checked wallet balance: $150.00",
+            "2025-05-17 20:35:58 - Deposited $500.00",
+            "2025-05-17 20:36:03 - Returned Tesla Model 3 (S004) after 1 days, paid $200",
+            "2025-05-17 20:36:26 - Rented Corolla (C001) for 2 days, paid $100",
+            "2025-05-17 20:36:29 - Returned Corolla (C001) after 1 days, paid $50",
+            "2025-05-17 20:39:49 - Checked wallet balance: $300.00",
+            "2025-05-17 20:39:55 - Deposited $500.00",
+            "2025-05-17 20:40:15 - Rented Civic (C002) for 1 days, paid $55",
+            "2025-05-17 20:40:29 - Rented Civic (C002) for 1 days, paid $55",
+            "2025-05-17 20:42:13 - Returned Civic (C002) after 1 days, paid $55",
+            "2025-05-17 20:42:16 - Checked wallet balance: $635.00",
+            "2025-05-17 21:48:17 - Checked wallet balance: $635.00",
+            "2025-05-18 11:42:57 - Checked wallet balance: $635.00",
+            "2025-05-18 13:07:35 - Rented Audi A6 (S001) for 2 days, paid $220",
+            "2025-05-18 13:07:41 - Returned Audi A6 after 1 days, paid additional $0",
+            "2025-05-18 13:07:49 - Deposited $500.00",
+            "2025-05-18 13:07:55 - Checked wallet balance: $915.00",
+            "2025-05-18 14:34:39 - Rented Corolla (C001) for 1 days, paid $50",
+            "2025-05-18 14:34:41 - Returned Corolla after 1 days, paid additional $0",
+            "2025-05-18 15:37:40 - Rented Tesla Model 3 (S004) for 2 days, paid $400",
+            "2025-05-18 15:37:43 - Returned Tesla Model 3 after 1 days, paid additional $0",
+            "2025-05-18 15:37:52 - Checked wallet balance: $465.00"
+        ]
+    },
+    "admin": {
+        "password": "admin123",
+        "balance": 0.0,
+        "activity_log": []
+    },
+    "muhammad": {
+        "password": "123",
+        "balance": 0.0,
+        "activity_log": [
+            "2025-05-17 21:18:06 - Account created with initial balance $200.0",
+            "2025-05-17 21:18:49 - Rented Corolla (C001) for 2 days, paid $100",
+            "2025-05-17 21:19:04 - Rented Corolla (C001) for 1 days, paid $50",
+            "2025-05-17 21:19:09 - Returned Corolla (C001) after 1 days, paid $50",
+            "2025-05-17 21:19:20 - Checked wallet balance: $0.00"
+        ]
+    },
+    "ali": {
+        "password": "1234",
+        "balance": 200.0,
+        "activity_log": [
+            "2025-05-17 22:43:28 - Account created with initial balance $200.0"
+        ]
+    }
+}
